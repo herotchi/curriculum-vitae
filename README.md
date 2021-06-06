@@ -6,9 +6,8 @@
 |---|-----|
 |Name|へろっち|
 |Blog|[さらさらなるままに](https://1944yamao-ka.sakura.ne.jp/)|
-|GitHub||
-|Qiita||
-|Twitter|[@herotchi](https://twitter.com/herotchi)|
+|GitHub|[herotchi](https://github.com/herotchi)|
+
 
 ## スキル
 ### 言語
